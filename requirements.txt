@@ -1,0 +1,4 @@
+pyodbc>=5.0
+pywin32>=306
+python-telegram-bot>=22
+python-dotenv>=1.0
